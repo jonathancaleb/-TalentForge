@@ -46,7 +46,7 @@ export const TopNavBar = () => {
           ))}
           <div className="ml-1 mt-1">
             <iframe
-              src="https://ghbtns.com/github-btn.html?user=xitanggg&repo=open-resume&type=star&count=true"
+              src="https://ghbtns.com/github-btn.html?user=jonathancaleb&repo=-TalentForge&type=star&count=true"
               width="100"
               height="20"
               className="overflow-hidden border-none"
