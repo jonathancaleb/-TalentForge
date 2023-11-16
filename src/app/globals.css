@@ -25,7 +25,7 @@
 }
 
 :root {
-  --theme-purple: #e48fee8c;
+  --theme-purple: #df4bb28c;
   --theme-blue: #7fd0eb;
   /* Keep the below variable names in sync with CSS_VARIABLES in globals-css.ts */
   --top-nav-bar-height: 3.5rem;
