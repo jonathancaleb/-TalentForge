@@ -5,7 +5,7 @@ import { Analytics } from "@vercel/analytics/react";
 export const metadata = {
   title: "WorkFolio - Resume Builder and Parser",
   description:
-    "Workfolio is a powerful resume builder that allows anyone to create a modern professional resume in 3 simple steps. For those who have an existing resume, OpenResume also provides a resume parser to help test and confirm its ATS readability.",
+    "Workfolio is a powerful resume builder that allows anyone to create a modern professional resume in 3 simple steps. For those who have an existing resume, WorkFolio also provides a resume parser to help test and confirm its ATS readability.",
 };
 
 export default function RootLayout({

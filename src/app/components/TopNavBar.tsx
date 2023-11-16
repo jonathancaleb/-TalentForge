@@ -2,7 +2,7 @@
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import logoSrc from "public/logo.svg";
+import logoSrc from "public/logo.webp";
 import { cx } from "lib/cx";
 
 export const TopNavBar = () => {
@@ -19,10 +19,10 @@ export const TopNavBar = () => {
     >
       <div className="flex h-10 w-full items-center justify-between">
         <Link href="/">
-          <span className="sr-only">OpenResume</span>
+          <span className="sr-only">WF</span>
           <Image
             src={logoSrc}
-            alt="OpenResume Logo"
+            alt="WorkFolio Logo"
             className="h-8 w-full"
             priority
           />
