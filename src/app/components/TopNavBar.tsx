@@ -23,7 +23,7 @@ export const TopNavBar = () => {
           <Image
             src={logoSrc}
             alt="WorkFolio Logo"
-            className="h-12rem w-full"
+            className="h-6rem w-full"
             priority
           />
         </Link>
