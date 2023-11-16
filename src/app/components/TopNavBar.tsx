@@ -17,7 +17,7 @@ export const TopNavBar = () => {
         isHomePage && "bg-dot"
       )}
     >
-      <div className="flex h-10 w-full items-center justify-between">
+      <div className="flex h-8 w-full items-center justify-between">
         <Link href="/">
           <span className="sr-only">WF</span>
           <Image
