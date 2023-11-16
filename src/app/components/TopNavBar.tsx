@@ -2,7 +2,7 @@
 import { usePathname } from "next/navigation";
 import Link from "next/link";
 import Image from "next/image";
-import logoSrc from "public/logo.png";
+import logoSrc from "public/logo.svg";
 import { cx } from "lib/cx";
 
 export const TopNavBar = () => {
@@ -19,11 +19,12 @@ export const TopNavBar = () => {
     >
       <div className="flex h-8 w-full items-center justify-between">
         <Link href="/">
-          <span className="sr-only">WF</span>
+          <span className="sr-only">WorkFolio</span>
           <Image
+          //TODO: EDIT LOGO HEIGHT TO FIT NAV BAR
             src={logoSrc}
             alt="WorkFolio Logo"
-            className="max-h-72 w-full"
+            className="h-8 w-full"
             priority
           />
         </Link>
