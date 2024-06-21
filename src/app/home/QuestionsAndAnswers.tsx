@@ -40,13 +40,13 @@ const QAS = [
         </p>{" "}
         <p>
           <span className="font-semibold">
-            1. WorkFolio is designed specifically for the U.S. job market and
+            1. WorkFolio is designed specifically for the job market and
             best practices.
           </span>
           <br />
           Unlike other resume builders that target a global audience and offer
           many customization options, WorkFolio intentionally only offers
-          options that are aligned with U.S. best practices. For example, it
+          options that are aligned with best practices. For example, it
           excludes the option to add a profile picture to avoid bias and
           discrimination. It offers only the core sections, e.g. profile, work
           experience, education, and skills, while omitting unnecessary sections
@@ -73,19 +73,8 @@ const QAS = [
     answer: (
       <p>
         WorkFolio was created by{" "}
-        <Link href="https://github.com/xitanggg">Xitang Zhao</Link> and designed
-        by <Link href="https://www.linkedin.com/in/imzhi">Zhigang Wen</Link> as
-        a weekend project. As immigrants to the US, we had made many mistakes
-        when creating our first resumes and applying for internships and jobs.
-        It took us a long while to learn some of the best practices. While
-        mentoring first generation students and reviewing their resumes, we
-        noticed students were making the same mistakes that we had made before.
-        This led us to think about how we can be of help with the knowledge and
-        skills we have gained. We started chatting and working over the weekends
-        that led to WorkFolio, where we integrated best practices and our
-        knowledge into this resume builder. Our hope is that WorkFolio can help
-        anyone to easily create a modern professional resume that follows best
-        practices and enable anyone to apply for jobs with confidence.
+        <Link href="https://github.com/xitanggg">caleb</Link> and designed as
+        a side project. To improve and learn more about next js.
       </p>
     ),
   },
@@ -95,28 +84,15 @@ const QAS = [
       <>
         <p>
           The best way to support WorkFolio is to share your thoughts and
-          feedback with us to help further improve it. You can send us an email
+          feedback with us to help further improve it. You can view the code
           at{" "}
-          <Link href="mailto:hello@open-resume.com">hello@open-resume.com</Link>{" "}
-          or{" "}
-          <Link href="https://github.com/xitanggg/open-resume/issues/new">
+          <Link href="https://github.com/jonathancaleb/TalentForge">
             open an issue
           </Link>{" "}
           at our Github repository. Whether you like it or not, we would love to
           hear from you.
         </p>
-        <p>
-          Another great way to support WorkFolio is by spreading the words.
-          Share it with your friends, on social media platforms, or with your
-          school’s career center. Our goal is to reach more people who struggle
-          with creating their resume, and your word-of-mouth support would be
-          greatly appreciated. If you use Github, you can also show your support
-          by{" "}
-          <Link href="https://github.com/xitanggg/open-resume">
-            giving the project a star
-          </Link>{" "}
-          to help increase its popularity and reach.
-        </p>
+        
       </>
     ),
   },

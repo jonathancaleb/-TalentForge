@@ -13,8 +13,8 @@ const FEATURES = [
   },
   {
     src: featureUSSrc,
-    title: "U.S. Best Practices",
-    text: "WorkFolio has built-in best practices for the U.S. job market and works well with top ATS platforms such as Greenhouse and Lever",
+    title: "Best Practices",
+    text: "WorkFolio has built-in best practices for the job market and works well with top ATS platforms such as Greenhouse and Lever",
   },
   {
     src: featurePrivacySrc,
