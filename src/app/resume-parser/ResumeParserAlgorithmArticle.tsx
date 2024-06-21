@@ -349,8 +349,8 @@ export const ResumeParserAlgorithmArticle = ({
         And that is everything about the WorkFolio parser algorithm :)
       </Paragraph>
       <Paragraph>
-        Written by <Link href="https://github.com/xitanggg">Xitang</Link> on
-        June 2023
+        Written by <Link href="https://github.com/jonathancalleb">caleb</Link> on
+        June 2024
       </Paragraph>
     </article>
   );
